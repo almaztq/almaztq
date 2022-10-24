@@ -1,5 +1,5 @@
 ### Hi there im a Almaztq👋
-🔭 I’m currently working on Junior Programming
+🔭 I’m currently working on Junior Programming at Home 
 <!--
 **almaztq/almaztq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
